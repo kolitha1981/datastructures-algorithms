@@ -41,7 +41,6 @@ public class InsertionSort {
 		return elementArray;
 	}
 
-
 	public static void main(String[] args) {		
 		int[] randomArray = getRamdomElementArray();
 		long startTime = System.currentTimeMillis();
